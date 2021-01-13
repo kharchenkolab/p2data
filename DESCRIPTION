@@ -6,57 +6,6 @@ Description: Data used by pagoda2
 License: GPL-3 
 Encoding: UTF-8
 LazyData: true
-biocViews:
-Imports:
-    base64enc, 
-    data.table,
-    dendsort, 
-    fastcluster,
-    graphics,
-    grDevices, 
-    irlba, 
-    magrittr, 
-    MASS, 
-    mgcv, 
-    methods,
-    N2R,
-    parallel, 
-    plyr, 
-    R.utils,
-    Rcpp,
-    rjson, 
-    rlang,
-    R6,
-    RMTstat, 
-    Rook, 
-    Rtsne, 
-    sccore (>= 0.1.1), 
-    stats, 
-    urltools,
-    utils
 Depends: 
-    R (>= 3.5.0), Matrix, igraph
+    R (>= 3.5.0)
 RoxygenNote: 7.1.1
-Suggests:
-    AnnotationDbi, 
-    BiocGenerics, 
-    BiocParallel,
-    colorRamps, 
-    dbscan, 
-    dplyr,
-    ggplot2, 
-    GO.db, 
-    gridExtra,
-    KernSmooth,
-    knitr, 
-    org.Dr.eg.db,
-    org.Hs.eg.db,
-    org.Mm.eg.db,
-    pcaMethods, 
-    pheatmap, 
-    rgl, 
-    rmarkdown, 
-    robustbase, 
-    scde,
-    testthat,
-    uwot
