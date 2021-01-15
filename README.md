@@ -1,4 +1,4 @@
-[![Build Status](https://api.travis-ci.com/kharchenkolab/sccore.svg?branch=master)](https://travis-ci.com/github/kharchenkolab/p2data)
+[![Build Status](https://travis-ci.org/kharchenkolab/p2data.svg?branch=main)](https://travis-ci.com/github/kharchenkolab/p2data)
 
 # p2data
 
