@@ -5,3 +5,9 @@
 For more on using this R package, see the GitHub repository for the [pagoda2 package](https://github.com/kharchenkolab/pagoda2). The data within this package `p2data` are the 3000 bone marrow cells used for vignettes, whereby the `*rda` file `sample_BM1.rda` is approximately 6 MB in size.
 
  
+## Installation
+
+```
+install.packages('p2data', repos='https://kharchenkolab.github.io/drat/', type='source')
+```
+
